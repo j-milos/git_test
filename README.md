@@ -9,3 +9,4 @@ My first github repo
 
 ### Git changes
 Lorem
+Test 1 i 2
