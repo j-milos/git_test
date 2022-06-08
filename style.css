@@ -9,4 +9,6 @@ h1{margin: 15px;}
 .alert-text,
 .drugiselektor {
     color: rgba(0, 38, 255, 0.507);
-  }
+  }\
+  img{height: auto;
+width: 500px;}
