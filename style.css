@@ -6,3 +6,6 @@ font-size: smaller;
 border: 2px solid palevioletred;
 padding: 10px;}
 h1{margin: 15px;}
+.alert-text {
+    color: red;
+  }
